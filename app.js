@@ -6,4 +6,4 @@ console.log(y*x);
 function bla(a){
     return a;
 }
-console.log("🎨🎨🎨🎨");
+console.log("🎲🎲🎲");
