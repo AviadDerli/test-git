@@ -1,1 +1,0 @@
-document.getElementById('harta').innerText="bla bla"
